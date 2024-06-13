@@ -19,7 +19,7 @@ Install NodeJS-Server with npm
 Install NextJS-View with npm
 
 ```bash
-  cd nextjs-frontend-app 
+  cd nextjs-app 
   npm install 
   npm run dev
 ```
