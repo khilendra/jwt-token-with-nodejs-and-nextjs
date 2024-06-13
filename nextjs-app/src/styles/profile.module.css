@@ -1,0 +1,33 @@
+/* profile.module.css */
+
+.profile-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .profile-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .profile-container p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .profile-container .loading {
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+  }
+  
+  .profile-container .error {
+    color: red;
+    margin-top: 20px;
+  }
+  
